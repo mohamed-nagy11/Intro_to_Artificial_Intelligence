@@ -1,6 +1,6 @@
 # Intro to Artificial Intelligence
 
-## CSCE476 - Fall2023 - University of Nebraska-Lincoln
+### CSCE476 - Fall2023 - University of Nebraska-Lincoln
 
 
 
